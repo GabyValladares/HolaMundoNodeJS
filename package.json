@@ -1,0 +1,19 @@
+{
+  "name": "holamundo1",
+  "version": "1.0.0",
+  "description": "Ejemplo de Hola Mundo utilizando Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabyValladares/HolaMundoNodeJS.git"
+  },
+  "author": "Gaby Valladares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabyValladares/HolaMundoNodeJS/issues"
+  },
+  "homepage": "https://github.com/GabyValladares/HolaMundoNodeJS#readme"
+}
